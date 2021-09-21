@@ -1,11 +1,11 @@
-# CryptoWorld
+# CryptoWorld - Get the latest news, cryptocurrency prices and global crypto stats.
 
-### Get the latest news, cryptocurrency prices and global crypto stats.
-
-#### :sunglasses: Another cool web Application with the aim to keep you updated when it comes to Crypto world.
+### :sunglasses: Another cool web Application with the aim to keep you updated when it comes to Crypto world.
 
 ### Site Preview
 ![Cryptoverse](https://github.com/SabeloMkhwanzi/CryptoWorld/blob/main/cryptoworld.jpg)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ad4993f1-e6a8-47df-b9e4-408478c711b8/deploy-status)](https://app.netlify.com/sites/cryptoworldspace/deploys)
 
 ### Features
  :zap: Fully Responsive\
