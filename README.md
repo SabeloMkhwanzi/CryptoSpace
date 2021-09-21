@@ -8,30 +8,30 @@
 ![Cryptoverse](https://github.com/SabeloMkhwanzi/CryptoWorld/blob/main/cryptoworld.jpg)
 
 ### Features
-* :zap: Fully Responsive
-* :zap: React.js
-* :zap: Rapaid API
-* :zap: Chart.js
-* :zap: Redux Toolkit
+ :zap: Fully Responsive\
+ :zap: React.js\
+ :zap: Rapaid API\
+ :zap: Chart.js\
+ :zap: Redux Toolkit
 
 ### Lesson learned on this project
-1. Advanced React best practices.
-1. Understanding State Management using Redux Toolkit.
-1. Fetching data from multiple sources using RapidAPI.
-1. Using Ant-design to build the UI
-1. Creating charts using Chart.js.  
+* Advanced React best practices.
+* Understanding State Management using Redux Toolkit.
+* Fetching data from multiple sources using RapidAPI.
+* Using Ant-design to build the UI
+* Creating charts using Chart.js.  
 
 ### App Section
-* :arrow_forward: Home Landing Page
-* :arrow_forward: Cryptocurrencies
-* :arrow_forward: Exchanges
-* :arrow_forward: News 
+:arrow_forward: Home Landing Page\
+:arrow_forward: Cryptocurrencies\
+:arrow_forward: Exchanges\
+:arrow_forward: News 
 
 ### Setup 
 #### To run this project, Install using npm:
 
 ```
-   $ git clone 
+   $ git clone gh repo clone SabeloMkhwanzi/CryptoWorld
    $ cd
    $ npm install
    $ npm start
