@@ -5,7 +5,7 @@
 ### Site Preview
 ![Cryptoverse](https://github.com/SabeloMkhwanzi/CryptoWorld/blob/main/cryptoworld.jpg)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ad4993f1-e6a8-47df-b9e4-408478c711b8/deploy-status)](https://app.netlify.com/sites/cryptoworldspace/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ad4993f1-e6a8-47df-b9e4-408478c711b8/deploy-status)](https://https://cryptoworldspace.netlify.app/)
 
 ### Features
  :zap: Fully Responsive\
