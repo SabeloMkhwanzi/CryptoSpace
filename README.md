@@ -33,7 +33,7 @@
 
 ```
    $ git clone gh repo clone SabeloMkhwanzi/CryptoWorld
-   $ cd
+   $ cd CryptoWorld
    $ npm install
    $ npm start
    ```
