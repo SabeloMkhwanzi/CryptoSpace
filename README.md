@@ -12,7 +12,8 @@
  :zap: React.js\
  :zap: Rapaid API\
  :zap: Chart.js\
- :zap: Redux Toolkit
+ :zap: Redux Toolkit\
+ :zap: Ant-Design
 
 ### Lesson learned on this project
 * Advanced React best practices.
